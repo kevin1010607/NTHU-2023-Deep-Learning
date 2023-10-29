@@ -1,0 +1,9 @@
+# vscode file
+.vscode
+
+# data, output file
+*/data
+*/output
+
+# mac file
+.DS_Store
